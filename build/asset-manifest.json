@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custome-buttons/static/css/main.d79ff4b9.chunk.css",
+    "main.js": "/custome-buttons/static/js/main.e8be5d9f.chunk.js",
+    "main.js.map": "/custome-buttons/static/js/main.e8be5d9f.chunk.js.map",
+    "runtime-main.js": "/custome-buttons/static/js/runtime-main.9dfd46d0.js",
+    "runtime-main.js.map": "/custome-buttons/static/js/runtime-main.9dfd46d0.js.map",
+    "static/js/2.38e98974.chunk.js": "/custome-buttons/static/js/2.38e98974.chunk.js",
+    "static/js/2.38e98974.chunk.js.map": "/custome-buttons/static/js/2.38e98974.chunk.js.map",
+    "static/js/3.d19c43f7.chunk.js": "/custome-buttons/static/js/3.d19c43f7.chunk.js",
+    "static/js/3.d19c43f7.chunk.js.map": "/custome-buttons/static/js/3.d19c43f7.chunk.js.map",
+    "index.html": "/custome-buttons/index.html",
+    "static/css/main.d79ff4b9.chunk.css.map": "/custome-buttons/static/css/main.d79ff4b9.chunk.css.map",
+    "static/js/2.38e98974.chunk.js.LICENSE.txt": "/custome-buttons/static/js/2.38e98974.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dfd46d0.js",
+    "static/js/2.38e98974.chunk.js",
+    "static/css/main.d79ff4b9.chunk.css",
+    "static/js/main.e8be5d9f.chunk.js"
+  ]
+}
